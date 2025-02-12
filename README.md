@@ -2,6 +2,7 @@
 
 This project walks through the process of building a linear regression model entirely from scratch using Python. No specialized libraries for machine learning or statistics were used in this project—just fundamental mathematical concepts implemented with vanilla libraries like numpy, pandas, and basic plotting libraries to visualize the results.
 
+Check this project on Kaggle: https://www.kaggle.com/code/binfinity/linear-regression-from-scratch
 ## Objective
 The goal of this project is to provide a deep understanding of how linear regression works by manually implementing every step in the machine learning pipeline. Instead of relying on high-level machine learning libraries like scikit-learn, this project focuses on building the model from the ground up. It uses the US Health Insurance dataset from Kaggle to predict medical insurance costs based on various factors such as age, sex, BMI, location, etc. The decision to use a real-world dataset ensures that the model is practical and relevant, while also demonstrating the application of linear regression to real-world problems. 
 
